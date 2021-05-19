@@ -2,7 +2,7 @@
 
 
 
-Projeto de reconstrução da página inicial do Instagram para Bootcamp na plataforma DIO
+Projeto de reconstrução da página inicial do Instagram para Bootcamp na plataforma DIO utilizando CSS e HTML
 
 
 
